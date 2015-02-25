@@ -15,11 +15,11 @@ In order for the polyfill to work in IE8 and IE9 you'll also need to make sure y
         <option value="item1"> 
         <option value="item2"> 
         <!--[if lte IE 9]></select><![endif]-->
-    </data
+    </datalist>
 
 Make sure the string "YOUR-LIST-ID" is replaced in both cases with the same id of your datalist.
 
-See also the [http://a.deveria.com/tests/datalist/](sample demo) for an example of usage.
+See also the [http://a.deveria.com/tests/datalist/](http://a.deveria.com/tests/datalist/) for an example of usage.
 
 ## Features ##
 - No jQuery or any other library required
